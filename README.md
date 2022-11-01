@@ -1,16 +1,49 @@
 
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Saymon Lima</h1>
+<style>
+    .stats{
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+    }
+  .title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    }
+  .tec{
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+  }
+</style>
 
-![saymon](https://github-readme-stats.vercel.app/api?username=Saymondev00&show_icons=true&theme=tokyonight)
+<h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Saymon Lima</h1>
 
-## Tecnologias que eu uso
+<div class=stats>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saymondev00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saymondev00&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  
-  <div style="display: inline_block">
-    <img align="right" alt="saymon" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1037062535393837118/1037062623772033124/ghost_2.png">
+<h2> Tecnologias</h2>
+<div class=title>
+<h3>Tenho experiência</h3>
+<h3>Estou estudando</h3>
+<h3>Tenho interesse</h3>
+</div>
+
+<div class=tec>
+  <div class=xp>
+    <img alt="html" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+    <img alt="css" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   </div>
+
+  <div class=std>
+  <img alt="js" id="js" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img alt="react" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  </div>
+  
+  <div class=itr>
+  <img alt="node" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+  <img alt="python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
+  </div>
+</div>
