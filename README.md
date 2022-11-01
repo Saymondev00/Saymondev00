@@ -12,5 +12,5 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   
   <div style="display: inline_block">
-    <img align="right" alt="saymon" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1037062535393837118/1037062624195653683/ghost.png">
+    <img align="right" alt="saymon" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1037062535393837118/1037062623772033124/ghost_2.png">
   </div>
