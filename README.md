@@ -11,4 +11,6 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1037062535393837118/1037062623772033124/ghost_2.png">
+  <div style="display: inline_block">
+    <img align="right" alt="saymon" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1037062535393837118/1037062623772033124/ghost_2.png">
+  </div>
