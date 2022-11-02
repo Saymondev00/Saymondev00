@@ -1,20 +1,3 @@
-<style>
-    .stats{
-    display: flex;
-    align-items: stretch;
-    justify-content: space-between;
-    }
-  .title{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    }
-  .tec{
-    display: flex;
-    align-items: stretch;
-    justify-content: space-between;
-  }
-</style>
 
 <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Saymon Lima</h1>
 
