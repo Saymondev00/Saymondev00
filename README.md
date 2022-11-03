@@ -6,8 +6,8 @@ Web Developer
 Sou estudante de TI, DevJr e desejo me especializar na área de Programação/Web Develope, em específico o Front-end.
 
 
-* 🌍  Sou de Brasil/CE
-* <svg role="img" height="15" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Gmail</title><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z" fill="#EA4335"/></svg> Gmail: saymondev010@gmail.com
+* 🌍 Sou de Brasil/CE
+* ✉️ Gmail: saymondev010@gmail.com
 
 
 ## Skills
@@ -40,5 +40,3 @@ Sou estudante de TI, DevJr e desejo me especializar na área de Programação/We
 <a href="http://www.github.com/Saymondev00"><img src="https://activity-graph.herokuapp.com/graph?username=Saymondev00&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Saymondev00" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=Saymondev00&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
