@@ -4,7 +4,7 @@
 Web Developer
 -----------------------------
 
-Sou estudante de TI, DevJr e desejo me especializar na área de Programação/Web Develope, em específico o Front-end.
+Sou estudante de TI, DevJr e desejo me especializar na área de Programação/Web Developer, em específico o Front-end.
 
 
 * 🌍 Sou de Brasil/CE
