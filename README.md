@@ -1,3 +1,4 @@
+
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Saymon Lima</h1>
 
 Web Developer
@@ -27,7 +28,7 @@ Sou estudante de TI, DevJr e desejo me especializar na área de Programação/We
 
 ## Socials
 
-<a href="https://discord.com/users/729729995647483956" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" height="50" /></a>
+<a href="https://discord.com/users/729729995647483956" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" height="50" /></a>
 
 ##
 
